@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Independent Street]]></title>
+        <description><![CDATA[Independent Street]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 17:40:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is Independent Street]]></title>
+            <description><![CDATA[<article><h1>This is Independent Street</h1><p>This is Independent Street. It's not really a place. It's a frame of mind. A way of thinking. It's trouble. It's loud.</p></article>]]></description>
+            <link>undefinedthis-is-independent-street/index.html</link>
+            <guid isPermaLink="false">51c93c22-01a1-479c-9131-202dcceb0483</guid>
+            <pubDate>Wed, 14 Oct 2015 17:39:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
