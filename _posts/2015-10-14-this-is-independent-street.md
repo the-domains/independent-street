@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-14T17:39:11.860Z'
-dateModified: '2015-10-14T17:38:06.813Z'
+datePublished: '2015-10-14T17:39:54.730Z'
+dateModified: '2015-10-14T17:39:11.860Z'
 title: This is Independent Street
 authors: []
 publisher:
